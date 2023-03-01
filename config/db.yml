@@ -1,0 +1,15 @@
+mysql:
+  source: # 主数据库
+    driverName: 
+    host: 
+    port: 
+    database: 
+    username: 
+    password: 
+    charset: 
+
+redis:
+  addr: 
+  port: 
+  password: 
+  db:  # 数据库编号

@@ -1,0 +1,1 @@
+docker run -itd --name mysql-gpt -p 3315:3306 -e MYSQL_ROOT_PASSWORD=uestc123456 mysql
